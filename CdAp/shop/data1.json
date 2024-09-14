@@ -1,19 +1,19 @@
 [{
-  id: 0,
-  imgUrl: "/img/music_artist-1.jpg",
-  title: "청춘",
-  content: "서로의 감정을 공유하는 연주를 콘서트를 통해 경험해보세요.",
-  price : "00일 04시간 00분"
+  "id": 0,
+  "imgUrl": "/img/music_artist-1.jpg",
+  "title": "청춘",
+  "content": "서로의 감정을 공유하는 연주를 콘서트를 통해 경험해보세요.",
+  "price" : "00일 04시간 00분"
 },{
-  id: 1,
-  imgUrl: "/img/music_artist-2.jpg",
-  title: "귀여움",
-  content: "곡 작업 중에 라이브 방송을 킨 극강의 귀여운 프로듀서의 삶을 알아보세요.",
-  price : "01일 00시간 00분"
+  "id": 1,
+  "imgUrl": "/img/music_artist-2.jpg",
+  "title": "귀여움",
+  "content": "곡 작업 중에 라이브 방송을 킨 극강의 귀여운 프로듀서의 삶을 알아보세요.",
+  "price" : "01일 00시간 00분"
 },{
-  id: 2,
-  imgUrl: "/img/music_artist-3.jpg",
-  title: "벅참",
-  content: "팬들과 함께 만든 여운이 남는 순간을 경험해보세요.",
-  price : "00일 00시간 30분"
+  "id": 2,
+  "imgUrl": "/img/music_artist-3.jpg",
+  "title": "벅참",
+  "content": "팬들과 함께 만든 여운이 남는 순간을 경험해보세요.",
+  "price" : "00일 00시간 30분"
 }]
